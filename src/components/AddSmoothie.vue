@@ -13,7 +13,7 @@
             </div>
             <div class="field add-ingredient">
                 <label for="add-ingredient">Add an ingredient:</label>
-                <input type="text" name="add-ingredient" @keydown.tab.prevent="addIng" v-model='another' autocomplete="off">
+                <input type="text" name="add-ingredient" @keydown.tab.prevent="addIng" v-model='another' autocomplete="off" placeholder="Press tab to add">
             </div>
             <div class="field center-align">
                 <p v-if="feedback" class='red-text'>{{feedback}}</p>
