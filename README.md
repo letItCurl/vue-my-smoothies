@@ -23,6 +23,6 @@ Let's see how to log user in the <a href="https://github.com/letItCurl/power-cha
 Let's see how to manage routes to protect pages and redirect user programaticly
 <a href="https://github.com/letItCurl/power-chat-vue/">See my next project !</a>
 
-- <a href="https://github.com/letItCurl/vue-my-smoothies/">Project one | You are here</a>
+- Project one | You are here
 - <a href="https://github.com/letItCurl/power-chat-vue">Project two</a>
-- <a href="https://github.com/letItCurl/what-is-my-stack">See my next project !</a>
+- <a href="https://github.com/letItCurl/what-is-my-stack">Project three</a>
