@@ -9,8 +9,18 @@
 Second day on learning Vue.JS.
 First project, the goal is to learn vue in 48h.
 
+***At the end of each read me there is the link of the next project.***
+
 Two more projects to go!
 
 # <a class='text-center' href="https://vue-my-smoothies.firebaseapp.com/#/">Or click here to try it in your browser!</a>
 
 > Db and hosting in firebase.
+
+# What this application needs ?
+There is no user managment, anyone can CRUD the recepies.
+Let's see how to log user in the next project ;)
+
+# What's next ?
+Let's see how to manage routes to protect pages and redirect user programaticly
+<a href="https://github.com/letItCurl/power-chat-vue/">See my next project !</a>
