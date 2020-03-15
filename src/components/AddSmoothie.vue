@@ -12,8 +12,11 @@
                 <i class="material-icons delete" @click="deleteIng(ing)">delete</i>
             </div>
             <div class="field add-ingredient">
-                <label for="add-ingredient">Add an ingredient:</label>
-                <input type="text" name="add-ingredient" @keydown.tab.prevent="addIng" v-model='another' autocomplete="off" placeholder="Press tab to add">
+                <div class="form-block">
+                    <label for="add-ingredient">Add an ingredient:</label>
+                    <input type="text" name="add-ingredient" @keydown.tab.prevent="addIng" v-model='another' autocomplete="off" placeholder="Or press tab to add">
+                </div>
+                <a class="btn pink"><i class="material-icons" @click="addIng">add</i></a>
             </div>
             <div class="field center-align">
                 <p v-if="feedback" class='red-text'>{{feedback}}</p>
@@ -91,5 +94,16 @@ export default {
     color: #aaa;
     font-size: 1.4em;
     cursor: pointer;
+}
+.add-smoothie .add-ingredient{
+    display: flex;
+}
+.add-smoothie .add-ingredient a{
+    position: absolute;
+    right: 0;
+    top: 25%;
+}
+.add-smoothie .add-ingredient .form-block{
+    width: 100%;
 }
 </style>

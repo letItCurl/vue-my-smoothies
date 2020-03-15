@@ -4,7 +4,7 @@
       <div class="card-content">
           <i class="material-icons delete" @click="deleteSmoothie(smoothie.id)">delete</i>
           <h2 class="indigo-text">{{smoothie.title}}</h2>
-          <ul class="ingredients">
+          <ul class="ingredients center">
             <li v-for="(ing, index) in smoothie.ingredients" :key="index">
               <span class="chip">{{ing}}</span>
             </li>
@@ -49,9 +49,7 @@ export default {
 
 <style>
 .index{
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 30px;
+  display: block;
   margin-top: 60px;
 }
 .index h2 {
