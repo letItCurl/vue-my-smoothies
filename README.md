@@ -20,7 +20,7 @@ There is no user managment, anyone can CRUD the recepies.
 Let's see how to log user in the <a href="https://github.com/letItCurl/power-chat-vue/">next project ;)</a>
 
 # What's next ?
-Let's see how to manage routes to protect pages and redirect user programaticly
+Let's see how to manage routes to protect pages and redirect user programmatically.
 <a href="https://github.com/letItCurl/power-chat-vue/">See my next project !</a>
 
 - Project one | You are here
