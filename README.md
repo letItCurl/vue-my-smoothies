@@ -1,5 +1,7 @@
 
-<a align="center" href="https://res.cloudinary.com/duydvdaxd/video/upload/v1584197860/Vue-Sprint/vue-my-smoothies_1_ft91ns.mp4"><img src="https://res.cloudinary.com/duydvdaxd/image/upload/v1584291030/Vue-Sprint/vue-my-smoothies_1_sueufx.gif"></a>
+<p align="center">
+<a href="https://res.cloudinary.com/duydvdaxd/video/upload/v1584197860/Vue-Sprint/vue-my-smoothies_1_ft91ns.mp4"><img src="https://res.cloudinary.com/duydvdaxd/image/upload/v1584291030/Vue-Sprint/vue-my-smoothies_1_sueufx.gif"></a>
+</p>
 
 
 # vue-my-smoothies
