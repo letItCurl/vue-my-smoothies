@@ -9,7 +9,7 @@
 
 Second day on learning Vue.JS.
 First project of three, the goal is to learn vue in 48h.
-Two more projects to go!!
+Two more projects to go!!!
 
 # <a class='text-center' href="https://vue-my-smoothies.firebaseapp.com/#/">Or click here to try it in your browser!</a>
 
